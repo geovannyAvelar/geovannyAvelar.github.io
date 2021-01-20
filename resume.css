@@ -1,0 +1,11 @@
+.title {
+    color: white;
+    background-color: black;
+    display: inline-block;
+    padding: 5px;
+    letter-spacing: 2px;
+}
+
+.date-subititle {
+    letter-spacing: 2px;
+}
