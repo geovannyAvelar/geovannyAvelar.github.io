@@ -1,5 +1,6 @@
 name: Describe EC2 instances
-'on': push
+on:
+  push
 jobs:
   describe:
     runs-on: ubuntu-latest
